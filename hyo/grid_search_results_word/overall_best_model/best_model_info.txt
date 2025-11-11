@@ -1,0 +1,4 @@
+Best model from combination: combo_004_lr_0.0001_r_16_alpha_16_bs_64
+Epoch: 6
+Validation Loss: 1.8458
+Hyperparameters: {'learning_rate': 0.0001, 'lora_r': 16, 'lora_alpha': 16, 'batch_size': 64, 'validation_split': 0.1}
